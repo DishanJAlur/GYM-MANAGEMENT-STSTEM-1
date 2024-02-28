@@ -46,7 +46,7 @@
                            
                             ?>
                                     <h2 class="color-white"><?php echo "Rs.".$revenue; ?></h2>
-                                    <a href="revenue_month.php"> <h2 class="color-white">Current Income</h2></a>
+                                    <a href="revenue_month.php"> <h2 class="color-white">the Current Income</h2></a>
                                 </div>
                             </div>
                         </div>
